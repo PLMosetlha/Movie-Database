@@ -41,10 +41,16 @@ Clone the following repository
 https://github.com/PLMosetlha/alx-capstone-project/tree/main/movie-database
 
 Navigate into the cloned repository:
+
 cd movie-database
+
 npm install
+
 Add your TMDB API key
+
 Create a .env file in the root folder:
 VITE_TMDB_API_KEY=your_tmdb_api_key
+
 Start the app
+
 npm run dev
